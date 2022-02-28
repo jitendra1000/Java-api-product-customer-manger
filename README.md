@@ -12,4 +12,12 @@ End-points configured and accessible through API Gateway
 End-points implemented at the Microservice level
 1.	Route: "/api/user/authenticate" [HttpPost]- To authenticate user and issue a token
 2.	Route: "/api/Products" [HttpGet] - To retrieve products information.
-3.	Route: "/api/Customers" [HttpGet] - To retrieve customers information.``
+3.	Route: "/api/Customers" [HttpGet] - To retrieve customers information.`
+
+
+## Architecture:`
+![``Screenshot from 2020-11-22 09-59-11](https://user-images.githubusercontent.com/31319842/99893389-be602800-2ca9-11eb-951f-639c42520d23.png)
+
+## Authorization Service
+
+![1](https://user-images.githubusercontent.com/31319842/99893591-9d003b80-2cab-11eb-9f06-1d5a785c775b.png)
